@@ -14,6 +14,8 @@ Offline Functionality:
 When brought back online:
 
   * Offline entries should be added to tracker.
+  
+  <img src="assets/addexercise.png" width="600" height="350">
 
 ## Business Context
 
