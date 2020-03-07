@@ -15,7 +15,7 @@ When brought back online:
 
   * Offline entries should be added to tracker.
   
-  <img src="assets/addexercise.png" width="600" height="350">
+  <img src="assets/budget-tracker.png" width="600" height="350">
 
 ## Business Context
 
